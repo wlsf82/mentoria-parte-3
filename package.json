@@ -1,0 +1,23 @@
+{
+  "name": "mentoria-parte-3",
+  "version": "1.0.0",
+  "description": "Projeto exemplo para demonstração durante mentoria TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/mentoria-parte-3.git"
+  },
+  "keywords": [],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlsf82/mentoria-parte-3/issues"
+  },
+  "homepage": "https://github.com/wlsf82/mentoria-parte-3#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
